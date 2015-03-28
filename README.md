@@ -7,6 +7,6 @@ Create hotspot from your windows machine and share your internet through your Wi
 3. Then right-click on your active internet connection and choose to share with your newly created hotspot ( most probably named as "Local area connection *some number*"
 4. This is only for first time, then it is snot needed.
 
-Mail at adisg14@gmail.com for any queries or suggestions on the script.
+Mail at n0bledr4gon@gmail.com for any queries or suggestions on the script.
 
 #beinglazy
